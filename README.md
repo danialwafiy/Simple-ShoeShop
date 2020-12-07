@@ -1,5 +1,4 @@
-# ShoeShop
-
+# Shop cart with bloc pattern
 A new Flutter project.
 
 ## Getting Started
