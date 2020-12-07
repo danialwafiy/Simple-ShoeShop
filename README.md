@@ -1,4 +1,4 @@
-##A simple shop cart using bloc pattern
+## A simple shop cart using bloc pattern
 
 ## Getting Started
 
