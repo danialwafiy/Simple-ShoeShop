@@ -1,5 +1,4 @@
-#A simple shop cart using bloc pattern
-A new Flutter project.
+##A simple shop cart using bloc pattern
 
 ## Getting Started
 
