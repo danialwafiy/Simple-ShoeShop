@@ -1,14 +1,3 @@
 ## A simple shop cart using bloc pattern
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/46147972/101450785-09df2b00-3966-11eb-99e4-7c82582194c8.PNG" width="300" height="auto">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/46147972/101449041-10b86e80-3963-11eb-9bdd-cbccb99bddd7.PNG" width="300" height="auto">
