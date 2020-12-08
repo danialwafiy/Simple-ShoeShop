@@ -33,6 +33,10 @@ class _ProductScreenState extends State<ProductScreen> {
               print('ProductInitial');
               return buildLoadingWidget();
             }
+            if(state is ProductLoading){
+              print('ProductLoading');
+              return buildLoadingWidget();
+            }
             if(state is ProductSuccess){
               print('ProductSuccess');
               return _buildProductListWidget(state.products);
@@ -43,7 +47,7 @@ class _ProductScreenState extends State<ProductScreen> {
                 child: Text('Something went wrong'),
               );
             }
-            print('ProductStreamNone');
+            print('Nothing');
             return buildLoadingWidget();
           }
         )

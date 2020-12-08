@@ -31,6 +31,10 @@ class _CartScreenState extends State<CartScreen> {
               print('CartInitial');
               return buildLoadingWidget();
             }
+            if(state is CartLoading){
+              print('CartLoading');
+              return buildLoadingWidget();
+            }
             if(state is CartSuccess){
               print('CartSuccess');
               if(state.carts.length == 0)
@@ -46,7 +50,8 @@ class _CartScreenState extends State<CartScreen> {
                 child: Text('Something went wrong'),
               );
             }
-             return buildLoadingWidget();
+            print('Nothing');
+            return buildLoadingWidget();
           }
         )
       ),
